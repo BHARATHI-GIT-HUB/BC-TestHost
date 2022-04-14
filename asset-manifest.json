@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BC-TestHost/static/css/main.821ce6ec.css",
+    "main.js": "/BC-TestHost/static/js/main.845d8ce5.js",
+    "static/media/gamingPc.jpg": "/BC-TestHost/static/media/gamingPc.76476875295811ddffa1.jpg",
+    "static/media/img2 copy.jpg": "/BC-TestHost/static/media/img2 copy.9ae9d38d6e5235dbcd83.jpg",
+    "static/media/img2.jpg": "/BC-TestHost/static/media/img2.fcd58347d65a87b5b1a7.jpg",
+    "static/media/img1.jpg": "/BC-TestHost/static/media/img1.58a0a54180eae8b00e69.jpg",
+    "static/media/lapService.jpg": "/BC-TestHost/static/media/lapService.9ea78babb74734d5417a.jpg",
+    "static/media/img3.jpg": "/BC-TestHost/static/media/img3.6f4570fd4d34c4772923.jpg",
+    "static/media/img4.jpg": "/BC-TestHost/static/media/img4.007b9a8bbe11629d091b.jpg",
+    "static/media/dataRecovery.jpg": "/BC-TestHost/static/media/dataRecovery.f6906614cbc12529203b.jpg",
+    "static/media/overlay.png": "/BC-TestHost/static/media/overlay.399bf960960d2146f71d.png",
+    "index.html": "/BC-TestHost/index.html",
+    "main.821ce6ec.css.map": "/BC-TestHost/static/css/main.821ce6ec.css.map",
+    "main.845d8ce5.js.map": "/BC-TestHost/static/js/main.845d8ce5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.821ce6ec.css",
+    "static/js/main.845d8ce5.js"
+  ]
+}
